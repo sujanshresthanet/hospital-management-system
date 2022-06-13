@@ -81,8 +81,8 @@ Doctor can also update his profile, change the password and recover the password
 7.Run the script http://localhost/hospital (frontend)
 
 **Login Details**
-Login Details for admin : admin/1234 (http://localhost/hospital/admin)
-Login Details for Patient: test@user.com/1234 (http://localhost/hospital/doctor)
-Login Details for Doctor: test@doctor.com/1234 (http://localhost/hospital)
+- Login Details for admin : admin/1234 (http://localhost/hospital/admin)
+- Login Details for Patient: test@user.com/1234 (http://localhost/hospital/doctor)
+- Login Details for Doctor: test@doctor.com/1234 (http://localhost/hospital)
 
 
